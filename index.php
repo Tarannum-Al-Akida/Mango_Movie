@@ -329,7 +329,7 @@ $togglePopularUrl = url_with($baseQuery, ['view' => $view, 'popular' => $onlyPop
     <div class="footer-inner">
         <span class="muted">© <?= (int)date('Y') ?> MANGO</span>
         <span class="muted">·</span>
-        <span class="muted">Build By Muneem Zaman</span>
+        <span class="muted">Build In PHP, HTML, CSS</span>
     </div>
 </footer>
 </body>
